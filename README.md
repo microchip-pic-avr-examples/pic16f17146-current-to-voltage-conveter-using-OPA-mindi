@@ -19,12 +19,12 @@ For more information about getting started with and using the MPLAB Mindi Analog
 * [PIC16F17146 Curiosity Nano User Guide](https://www.microchip.com/DS50003037)
 
 ## Related Software
-* [Force Sensing Resistor interface using PIC16F17146 Code Examples](https://github.com/microchip-pic-avr-examples/pic16f17146-force-sensing-resistor-mindi/releases/tag/1.0.0)
+* [Force Sensing Resistor interface using PIC16F17146 Code Examples](https://github.com/microchip-pic-avr-examples/pic16f17146-force-sensing-resistor-mindi)
 
 ### Mindi Simulation
 ![Mindi](images/mplab-mindi-analog-simulator.png)
 
-Download and open the **Mindi schematic [here](https://github.com/microchip-pic-avr-examples/pic16f17146-current-to-voltage-conveter-using-OPA-mindi/releases/latest)**
+Download and open the **Mindi schematic [here](https://github.com/microchip-pic-avr-examples/pic16f17146-current-to-voltage-conveter-using-OPA-mindi/releases/tag/1.0.0)**
 
 Press the _play_ button to simulate with an example stimulus source.
 
