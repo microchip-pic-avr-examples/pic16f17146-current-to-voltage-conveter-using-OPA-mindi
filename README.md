@@ -24,7 +24,7 @@ For more information about getting started with and using the MPLAB Mindi Analog
 ### Mindi Simulation
 ![Mindi](images/mplab-mindi-analog-simulator.png)
 
-Download and open the **Mindi schematic [here](https://github.com/microchip-pic-avr-examples/pic16f17146-force-sensing-resistor-interface-mplab-mcc-mindi/releases/latest)**
+Download and open the **Mindi schematic [here](https://github.com/microchip-pic-avr-examples/pic16f17146-current-to-voltage-conveter-using-OPA-mindi/releases/latest)**
 
 Press the _play_ button to simulate with an example stimulus source.
 
